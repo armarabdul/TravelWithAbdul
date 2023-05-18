@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400&family=El+Messiri:wght@400;500&family=IBM+Plex+Sans+Arabic:wght@100;200;300&family=Open+Sans:wght@300;400&family=Roboto:wght@300&display=swap");
+
+.header {
+  font-family: "IBM Plex Sans Arabic", sans-serif;
+  font-weight: 200;
+}
+.span {
+  font-family: "El Messiri", sans-serif;
+  font-weight: 500;
+  margin-left: 2.5rem;
+}
+.Social {
+  display: flex;
+  max-width: 10%;
+  gap: 5%;
+  justify-content: center;
+  margin-top: 1%;
+}
+.ul {
+  font-family: "Open Sans", sans-serif;
+}

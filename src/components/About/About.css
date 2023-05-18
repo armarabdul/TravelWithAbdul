@@ -1,0 +1,17 @@
+.container3 {
+  position: relative;
+  left: 35%;
+  bottom: 35rem;
+  max-width: 65%;
+  overflow: hidden;
+}
+.header1 {
+  position: relative;
+  left: 40%;
+}
+.photoGrid {
+  position: relative;
+  top: 2rem;
+  max-width: 80%;
+  left: 10%;
+}
